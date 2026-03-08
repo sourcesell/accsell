@@ -34,7 +34,7 @@ from telethon import TelegramClient, events, Button
 BOT_TOKEN         = "8643034907:AAELPGXD_I5wDEs8Cyu5qtT_AEZwBnHhDGA"
 API_ID            = 27896193
 API_HASH          = "38a5463cb8bf980d4519fba0ced298c2"
-MONGO_URI         = "mongodb+srv://bsdk:betichod@cluster0.fgj1r9z.mongodb.net/?retryWrites=true&w=majority"
+MONGO_URI         = "mongodb+srv://kumartijil71_db_user:r4CHHowUcuPe8Nvv@bokachoda.scsnfov.mongodb.net/"
 SUPER_ADMIN_ID    = 8568245247
 ADMIN_LOG_CHANNEL = -1003831478369
 UPI_ID            = "tijil-kumar@fam"
